@@ -1,4 +1,3 @@
-<?php
 PHP Tidy validator
 ==================
 
