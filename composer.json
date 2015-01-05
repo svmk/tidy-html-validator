@@ -1,0 +1,21 @@
+{
+    "name": "svmk/tidy-html-validator",
+    "description": "Validating HTML markup using tidy.",
+    "require": {
+        "ext-tidy" : "*"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Mikhail Svetov",
+            "email": "svmk-work@yandex.ru"
+        }
+    ],
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-4": {
+            "TidyValidator\\": "src/"
+        }
+    }
+
+}
